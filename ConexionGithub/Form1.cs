@@ -22,5 +22,11 @@ namespace ConexionGithub
             lb_prueba.Text = "HOLA MUNDO";
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           //Unicamente es un mensaje de prueba
+           
+        }
     }
 }
