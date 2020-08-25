@@ -63,7 +63,7 @@
             // lb_prueba
             // 
             this.lb_prueba.AutoSize = true;
-            this.lb_prueba.Location = new System.Drawing.Point(379, 116);
+            this.lb_prueba.Location = new System.Drawing.Point(411, 154);
             this.lb_prueba.Name = "lb_prueba";
             this.lb_prueba.Size = new System.Drawing.Size(40, 13);
             this.lb_prueba.TabIndex = 4;
